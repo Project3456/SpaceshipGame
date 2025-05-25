@@ -21,4 +21,4 @@
 ## About Me
 I m learning Python to become a software engineer at Google.
 
-![Ракета](https://pixabay.com/static/frontend/3623f49a093c354a.svg)
+![Ракета](https://cdn.pixabay.com/photo/2023/02/07/18/56/rocket-7774875_960_720.png)
