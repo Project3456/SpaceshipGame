@@ -23,6 +23,4 @@ I m learning Python to become a software engineer at Google.
 
 ![Ракета](https://cdn.pixabay.com/photo/2023/02/07/18/56/rocket-7774875_960_720.png)
 
-UPDATE:
 
-Added two new methods to manage junk in Space Junk Collector.
